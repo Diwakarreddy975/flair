@@ -1,0 +1,88 @@
+1688125555010	geckodriver	INFO	Listening on 127.0.0.1:61655
+1688125558044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91789\\AppData\\Local\\Temp\\rust_mozprofileOMaRAl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688125558925	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688125558933	Marionette	INFO	Listening on port 61666
+Read port: 61666
+WebDriver BiDi listening on ws://127.0.0.1:61656
+1688125559148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61656/devtools/browser/c987ceb8-b575-49e5-b910-078ff547f84e
+1688125564867	Marionette	INFO	Stopped listening on port 61666
+Dynamically enable window occlusion 1
+1688125566076	geckodriver	INFO	Listening on 127.0.0.1:61697
+1688125569077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61698" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91789\\AppData\\Local\\Temp\\rust_mozprofileLlFhgr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688125569386	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688125569391	Marionette	INFO	Listening on port 61706
+Read port: 61706
+WebDriver BiDi listening on ws://127.0.0.1:61698
+1688125569531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61698/devtools/browser/ce655140-9c17-4238-b681-6a9e0e939f30
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1688125576584	Marionette	INFO	Stopped listening on port 61706
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+1688126303881	geckodriver	INFO	Listening on 127.0.0.1:62088
+1688126306966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91789\\AppData\\Local\\Temp\\rust_mozprofilehEgvE6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688126307291	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688126307297	Marionette	INFO	Listening on port 62097
+Read port: 62097
+WebDriver BiDi listening on ws://127.0.0.1:62089
+1688126307455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62089/devtools/browser/950452f1-f09c-4cec-802a-456afda8f6b8
+1688126312282	Marionette	INFO	Stopped listening on port 62097
+Dynamically enable window occlusion 1
+1688126313428	geckodriver	INFO	Listening on 127.0.0.1:62125
+1688126316447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62126" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91789\\AppData\\Local\\Temp\\rust_mozprofilec7oOOD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688126316786	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688126316791	Marionette	INFO	Listening on port 62135
+Read port: 62135
+WebDriver BiDi listening on ws://127.0.0.1:62126
+1688126316950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62126/devtools/browser/72bdd9c8-d9a7-469e-a390-34d5fb68dc4a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1688126324549	Marionette	INFO	Stopped listening on port 62135
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+1688126535472	geckodriver	INFO	Listening on 127.0.0.1:62277
+1688126538525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62278" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91789\\AppData\\Local\\Temp\\rust_mozprofileVbwbPA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688126538818	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688126538822	Marionette	INFO	Listening on port 62286
+Read port: 62286
+WebDriver BiDi listening on ws://127.0.0.1:62278
+1688126538959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62278/devtools/browser/696dfb5b-2f1d-4568-9ce9-e190efad184e
+1688126543250	Marionette	INFO	Stopped listening on port 62286
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1688126544707	geckodriver	INFO	Listening on 127.0.0.1:62313
+1688126547756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\91789\\AppData\\Local\\Temp\\rust_mozprofile5iTlEd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688126548289	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688126548294	Marionette	INFO	Listening on port 62323
+Read port: 62323
+WebDriver BiDi listening on ws://127.0.0.1:62314
+1688126548429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62314/devtools/browser/db4e9cd8-f17d-41a7-bded-0b078a0d3446
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1688126556120	Marionette	INFO	Stopped listening on port 62323
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
